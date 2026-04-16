@@ -125,4 +125,4 @@ No custom CSS, colours, or fonts are injected anywhere in the code. The applicat
 
 ## Licence
 
-Released under the MIT Licence. Do whatever you like with it.
+GNU General Public License v3.0

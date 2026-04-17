@@ -129,3 +129,5 @@ No custom CSS, colours, or fonts are injected anywhere in the code. The applicat
 ---
 
 ## Licence
+
+GNU General Public License v3.0
